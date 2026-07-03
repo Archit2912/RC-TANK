@@ -2,9 +2,9 @@
 #include <Servo.h>
 #include <IRremote.hpp>
 #define ENA 9
+#define ENB 11
 #define IN1 6
 #define IN2 4
-#define ENB 11
 #define IN3 2
 #define IN4 12
 #define turret_pin  3
